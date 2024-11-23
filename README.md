@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nael1215
 - 👀 I’m interested in programmers
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on none
 - 📫 How to reach me nael_huyuki@naver.com
 - 😄 Pronouns: Amateur
 - ⚡ Fun fact: None
